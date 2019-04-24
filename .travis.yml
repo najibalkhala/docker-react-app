@@ -7,4 +7,3 @@ before_install:
 
 script:
   - docker run najibalkhala/docker-react-app npm run test -- --coverage
-
